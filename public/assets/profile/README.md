@@ -1,0 +1,1 @@
+Add the supplied, unmodified portrait image here as `portrait.jpg` (or update the image path in `src/App.jsx`). The website gracefully displays an editorial initials placeholder until the image is present. Keep the original file and replace it with a smaller, web-optimized copy if needed; do not alter the subject's identity.
